@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  // "include": ["next-env.d.js", "**/*.js", "**/*.jsx", ".next/types/**/*.js", "app/about/page.js", "component/navbar/Navbar.js", "app/layout.js"],
+  // "exclude": ["node_modules"]
+}

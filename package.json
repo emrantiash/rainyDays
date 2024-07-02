@@ -1,0 +1,33 @@
+{
+  "name": "wedeliver",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3003",
+    "lint": "next lint",
+    "prod": "next export"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.19.3",
+    "@reduxjs/toolkit": "^1.9.5",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.5.0",
+    "cookie-cutter": "^0.2.0",
+    "crypto-js": "^4.1.1",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.12",
+    "flowbite": "^1.7.0",
+    "flowbite-react": "^0.5.0",
+    "next": "^13.5.4",
+    "postcss": "8.4.27",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "react-redux": "^8.1.2",
+    "redux-persist": "^6.0.0",
+    "sharp": "^0.33.1",
+    "tailwindcss": "3.3.3"
+  }
+}
